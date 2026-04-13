@@ -40,7 +40,7 @@ function App() {
     setReview("");
 
     try {
-      const response = await fetch("http://localhost:5202/review", {
+      const response = await fetch(`${process.env.REACT_APP_API_URL}/review`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
