@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeReviewTool.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9843fa28ff26c67c8730a1d5c2946c43591c752a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e0917c79616c4031ce955ae261e615886201a44")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeReviewTool.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeReviewTool.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
